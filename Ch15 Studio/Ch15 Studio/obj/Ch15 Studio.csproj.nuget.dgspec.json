@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS Projects\\communication-log\\Ch15 Studio\\Ch15 Studio\\Ch15 Studio.csproj": {}
+    "C:\\Users\\pk080\\Development\\communication-log\\Ch15 Studio\\Ch15 Studio\\Ch15 Studio.csproj": {}
   },
   "projects": {
-    "D:\\VS Projects\\communication-log\\Ch15 Studio\\Ch15 Studio\\Ch15 Studio.csproj": {
+    "C:\\Users\\pk080\\Development\\communication-log\\Ch15 Studio\\Ch15 Studio\\Ch15 Studio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS Projects\\communication-log\\Ch15 Studio\\Ch15 Studio\\Ch15 Studio.csproj",
+        "projectUniqueName": "C:\\Users\\pk080\\Development\\communication-log\\Ch15 Studio\\Ch15 Studio\\Ch15 Studio.csproj",
         "projectName": "Ch15 Studio",
-        "projectPath": "D:\\VS Projects\\communication-log\\Ch15 Studio\\Ch15 Studio\\Ch15 Studio.csproj",
-        "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-        "outputPath": "D:\\VS Projects\\communication-log\\Ch15 Studio\\Ch15 Studio\\obj\\",
+        "projectPath": "C:\\Users\\pk080\\Development\\communication-log\\Ch15 Studio\\Ch15 Studio\\Ch15 Studio.csproj",
+        "packagesPath": "C:\\Users\\pk080\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pk080\\Development\\communication-log\\Ch15 Studio\\Ch15 Studio\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\steve\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\pk080\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

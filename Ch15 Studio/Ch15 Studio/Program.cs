@@ -8,6 +8,7 @@ namespace Ch15_Studio
         {
             Console.WriteLine("Hello Pilot!");
             Console.WriteLine("Help me Control!!!");
+            Console.WriteLine("How can we be of assistance, Pilot?");
         }
     }
 }
