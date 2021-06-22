@@ -14,3 +14,19 @@ C:\Users\pk080\Development\communication-log\Ch15 Studio\Ch15 Studio\obj\Debug\n
 C:\Users\pk080\Development\communication-log\Ch15 Studio\Ch15 Studio\obj\Debug\net5.0\ref\Ch15 Studio.dll
 C:\Users\pk080\Development\communication-log\Ch15 Studio\Ch15 Studio\obj\Debug\net5.0\Ch15 Studio.pdb
 C:\Users\pk080\Development\communication-log\Ch15 Studio\Ch15 Studio\obj\Debug\net5.0\Ch15 Studio.genruntimeconfig.cache
+D:\VS Projects\communication-log\Ch15 Studio\Ch15 Studio\bin\Debug\net5.0\Ch15 Studio.exe
+D:\VS Projects\communication-log\Ch15 Studio\Ch15 Studio\bin\Debug\net5.0\Ch15 Studio.deps.json
+D:\VS Projects\communication-log\Ch15 Studio\Ch15 Studio\bin\Debug\net5.0\Ch15 Studio.runtimeconfig.json
+D:\VS Projects\communication-log\Ch15 Studio\Ch15 Studio\bin\Debug\net5.0\Ch15 Studio.runtimeconfig.dev.json
+D:\VS Projects\communication-log\Ch15 Studio\Ch15 Studio\bin\Debug\net5.0\Ch15 Studio.dll
+D:\VS Projects\communication-log\Ch15 Studio\Ch15 Studio\bin\Debug\net5.0\ref\Ch15 Studio.dll
+D:\VS Projects\communication-log\Ch15 Studio\Ch15 Studio\bin\Debug\net5.0\Ch15 Studio.pdb
+D:\VS Projects\communication-log\Ch15 Studio\Ch15 Studio\obj\Debug\net5.0\Ch15 Studio.csproj.AssemblyReference.cache
+D:\VS Projects\communication-log\Ch15 Studio\Ch15 Studio\obj\Debug\net5.0\Ch15 Studio.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\communication-log\Ch15 Studio\Ch15 Studio\obj\Debug\net5.0\Ch15 Studio.AssemblyInfoInputs.cache
+D:\VS Projects\communication-log\Ch15 Studio\Ch15 Studio\obj\Debug\net5.0\Ch15 Studio.AssemblyInfo.cs
+D:\VS Projects\communication-log\Ch15 Studio\Ch15 Studio\obj\Debug\net5.0\Ch15 Studio.csproj.CoreCompileInputs.cache
+D:\VS Projects\communication-log\Ch15 Studio\Ch15 Studio\obj\Debug\net5.0\Ch15 Studio.dll
+D:\VS Projects\communication-log\Ch15 Studio\Ch15 Studio\obj\Debug\net5.0\ref\Ch15 Studio.dll
+D:\VS Projects\communication-log\Ch15 Studio\Ch15 Studio\obj\Debug\net5.0\Ch15 Studio.pdb
+D:\VS Projects\communication-log\Ch15 Studio\Ch15 Studio\obj\Debug\net5.0\Ch15 Studio.genruntimeconfig.cache
