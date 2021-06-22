@@ -7,5 +7,6 @@ namespace Ch15_Studio
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+        }
     }
 }
